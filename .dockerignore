@@ -1,0 +1,10 @@
+.git/
+conf/*.test.yaml
+conf/*.prod.yaml
+__pycache__
+.DS_Store
+log/
+script/
+data/
+.idea/
+.pytest_cache/
